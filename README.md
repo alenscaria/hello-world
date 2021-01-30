@@ -1,7 +1,6 @@
 # hello-world
 
- __________________________
- |                        |
- |   My first repository. |
- |     Hello world        |
- |________________________|
+My first repository.
+
+Hello world        
+ 
